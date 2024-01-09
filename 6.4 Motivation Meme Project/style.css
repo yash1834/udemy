@@ -1,0 +1,13 @@
+img{
+border-width: 5px solid white;
+}
+div{
+  color: white;
+  background-color: black;
+  text-align: center;
+  width: 50%;
+  margin: 25%;
+}
+h1{
+  text-transform: capitalize;
+}
