@@ -1,9 +1,12 @@
+html{
+  color: white;
+  background-color: black; 
+}
 img{
-border-width: 5px solid white;
+  border-width: 5px solid white;
+  width: 100%;
 }
 div{
-  color: white;
-  background-color: black;
   text-align: center;
   width: 50%;
   margin: 25%;
